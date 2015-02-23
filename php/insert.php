@@ -21,5 +21,5 @@
  ?>
 
  <script type="text/javascript">
- 	window.location = "sigin.php";
+ 	window.location = "signin.php";
  </script>

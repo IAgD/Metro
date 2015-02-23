@@ -21,7 +21,7 @@
 			<a class="tile double ol-transparent bg-darkViolet" data-click="transform" href="php/login.php">
                 <div class="tile-content icon"><span class="icon-diamond"></span></div><div class="tile-status"><span class="name">INGRESAR</span></div>
             </a>
-            <a class="tile double ol-transparent bg-darkViolet" data-click="transform" href="php/sigin.php">
+            <a class="tile double ol-transparent bg-darkViolet" data-click="transform" href="php/signin.php">
                 <div class="tile-content icon"><span class="icon-tag"></span></div><div class="tile-status"><span class="name">REGISTRAR</span></div>
             </a>
             <a class="tile double ol-transparent bg-darkViolet" data-click="transform" href="php/up.php">
